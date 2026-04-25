@@ -1,0 +1,92 @@
+.section {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.buttonBack {
+  margin-bottom: 24px;
+}
+
+.title {
+  margin: 0 0 24px;
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--neutral-900);
+}
+
+.picture {
+  width: 100%;
+  height: 600px;
+  min-height: 600px;
+}
+
+.pictureImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+
+.content {
+  padding: 24px 0;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.service {
+  margin: 0;
+  color: var(--neutral-900);
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.category {
+  margin: 0;
+  color: var(--neutral-900);
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.price {
+  color: var(--neutral-900);
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.priceSum {
+}
+
+.priceSymbol {
+  padding-left: 4px;
+}
+
+.description {
+  margin-bottom: 24px;
+}
+
+.description p {
+  margin: 0;
+  color: var(--neutral-700);
+  font-size: 16px;
+}
+
+.description p + p {
+  margin-top: 16px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}

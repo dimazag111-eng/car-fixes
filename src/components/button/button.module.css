@@ -1,0 +1,41 @@
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  background: transparent;
+  font: inherit;
+  line-height: 1;
+  text-align: center;
+  cursor: pointer;
+}
+
+.button--primary {
+  padding: 4px 16px;
+  min-height: 40px;
+  background: var(--primary-700);
+  color: var(--neutral-0);
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.button--secondary {
+  padding: 4px 16px;
+  min-height: 40px;
+  border: 1px solid var(--neutral-300);
+  background: var(--neutral-0);
+  color: var(--neutral-900);
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.button--accent {
+  padding: 4px 16px;
+  min-height: 40px;
+  background: var(--accent-500);
+  color: var(--neutral-0);
+  font-size: 16px;
+  font-weight: 600;
+}

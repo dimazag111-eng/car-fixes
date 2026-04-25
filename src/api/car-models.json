@@ -1,0 +1,131 @@
+[
+  {
+    "id": "toyota-camry",
+    "brandId": "toyota",
+    "name": "Camry"
+  },
+  {
+    "id": "toyota-corolla",
+    "brandId": "toyota",
+    "name": "Corolla"
+  },
+  {
+    "id": "toyota-rav4",
+    "brandId": "toyota",
+    "name": "RAV4"
+  },
+  {
+    "id": "toyota-land-cruiser",
+    "brandId": "toyota",
+    "name": "Land Cruiser"
+  },
+  {
+    "id": "toyota-prius",
+    "brandId": "toyota",
+    "name": "Prius"
+  },
+
+  {
+    "id": "bmw-3-series",
+    "brandId": "bmw",
+    "name": "3 Series"
+  },
+  {
+    "id": "bmw-5-series",
+    "brandId": "bmw",
+    "name": "5 Series"
+  },
+  {
+    "id": "bmw-x3",
+    "brandId": "bmw",
+    "name": "X3"
+  },
+  {
+    "id": "bmw-x5",
+    "brandId": "bmw",
+    "name": "X5"
+  },
+  {
+    "id": "bmw-x7",
+    "brandId": "bmw",
+    "name": "X7"
+  },
+
+  {
+    "id": "mercedes-c-class",
+    "brandId": "mercedes",
+    "name": "C-Class"
+  },
+  {
+    "id": "mercedes-e-class",
+    "brandId": "mercedes",
+    "name": "E-Class"
+  },
+  {
+    "id": "mercedes-s-class",
+    "brandId": "mercedes",
+    "name": "S-Class"
+  },
+  {
+    "id": "mercedes-glc",
+    "brandId": "mercedes",
+    "name": "GLC"
+  },
+  {
+    "id": "mercedes-gle",
+    "brandId": "mercedes",
+    "name": "GLE"
+  },
+
+  {
+    "id": "audi-a4",
+    "brandId": "audi",
+    "name": "A4"
+  },
+  {
+    "id": "audi-a6",
+    "brandId": "audi",
+    "name": "A6"
+  },
+  {
+    "id": "audi-q3",
+    "brandId": "audi",
+    "name": "Q3"
+  },
+  {
+    "id": "audi-q5",
+    "brandId": "audi",
+    "name": "Q5"
+  },
+  {
+    "id": "audi-q7",
+    "brandId": "audi",
+    "name": "Q7"
+  },
+
+  {
+    "id": "hyundai-solaris",
+    "brandId": "hyundai",
+    "name": "Solaris"
+  },
+  {
+    "id": "hyundai-elantra",
+    "brandId": "hyundai",
+    "name": "Elantra"
+  },
+  {
+    "id": "hyundai-sonata",
+    "brandId": "hyundai",
+    "name": "Sonata"
+  },
+  {
+    "id": "hyundai-tucson",
+    "brandId": "hyundai",
+    "name": "Tucson"
+  },
+  {
+    "id": "hyundai-santa-fe",
+    "brandId": "hyundai",
+    "name": "Santa Fe"
+  }
+]

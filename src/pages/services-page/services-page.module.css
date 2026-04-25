@@ -1,0 +1,36 @@
+.section {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  flex-grow: 1;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 64px;
+  margin-bottom: 32px;
+}
+
+.filters {
+  display: grid;
+  grid-template-columns: 1fr 0.5fr;
+  gap: 16px;
+  margin-bottom: 32px;
+}
+
+.categories {
+  display: grid;
+  grid-template-columns: 1fr;
+  row-gap: 48px;
+}
+
+.categoryList {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 350px), 1fr));
+  gap: 16px;
+}
+
+.categoryName {
+  margin-bottom: 24px;
+  font-weight: 700;
+  font-size: 32px;
+}

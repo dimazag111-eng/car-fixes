@@ -1,0 +1,34 @@
+[
+  {
+    "id": "body",
+    "name": "Кузов"
+  },
+  {
+    "id": "interior",
+    "name": "Салон"
+  },
+  {
+    "id": "wash",
+    "name": "Мойка"
+  },
+  {
+    "id": "glass-and-optics",
+    "name": "Стекла и оптика"
+  },
+  {
+    "id": "wheels-and-tires",
+    "name": "Колёса и резина"
+  },
+  {
+    "id": "maintenance",
+    "name": "Техническое обслуживание"
+  },
+  {
+    "id": "protection",
+    "name": "Защита"
+  },
+  {
+    "id": "extra",
+    "name": "Дополнительно"
+  }
+]

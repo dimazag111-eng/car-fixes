@@ -1,0 +1,54 @@
+.section {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.buttonBack {
+  margin-bottom: 24px;
+}
+
+.title {
+  margin: 0 0 24px;
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--neutral-900);
+}
+
+.summary {
+  border: 1px solid var(--neutral-200);
+  padding: 24px;
+  background: var(--neutral-0);
+}
+
+.summaryFooter {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 24px;
+  margin-top: 32px;
+  padding-top: 32px;
+  border-top: 1px solid var(--neutral-200);
+}
+
+.totalRow {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 8px;
+}
+
+.totalRowLabel {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--neutral-900);
+}
+
+.totalRowValue {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--neutral-900);
+}
+
+.totalRowValueSymbol {
+  padding-left: 4px;
+}

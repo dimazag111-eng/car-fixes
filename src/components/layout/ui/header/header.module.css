@@ -1,0 +1,44 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  background: var(--primary-900);
+}
+
+.container {
+  padding-top: 16px !important;
+  padding-bottom: 16px !important;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: var(--neutral-0);
+  font-size: 20px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.link {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  color: var(--neutral-0);
+  font-size: 16px;
+  font-weight: 400;
+  cursor: pointer;
+}
